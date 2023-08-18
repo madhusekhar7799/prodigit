@@ -1,0 +1,19 @@
+.speakers{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.speakerimg{
+    display: flex;
+    flex-direction: row;
+}
+
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

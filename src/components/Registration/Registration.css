@@ -1,0 +1,56 @@
+.registration{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    margin: 30px;
+    /* padding: 50px; */
+}
+
+.list_con{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40vw;
+    background-image: url('https://wallpaperaccess.com/full/9251298.jpg');
+  background-repeat: no-repeat; /* How the image should repeat (no-repeat, repeat, repeat-x, repeat-y) */
+  background-size: cover; /* How the image should be sized (cover, contain, length, percentage) */
+  background-position: center center; /* Where the image should be positioned (x-axis y-axis) */
+  background-attachment: fixed;
+  padding: 20px;
+  /* color: white; */
+}
+
+.data{
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+   color: white;
+   justify-content: center;
+   align-items: center;
+   background-color: black;
+
+}
+.cards{
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    
+}
+
+.card{
+    width: 300px;
+    height: 250px;
+    border: 5px red;
+
+}
+
+
+

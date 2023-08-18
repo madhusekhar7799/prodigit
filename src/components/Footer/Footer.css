@@ -1,0 +1,32 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: black;
+    /* justify-content: space-evenly; */
+}
+
+.linkson{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    padding-top: 30px;
+}
+
+.infodata{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+
+}
+
+.copyright{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 700px;
+}

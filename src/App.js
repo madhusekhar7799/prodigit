@@ -1,23 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css"
+import React from 'react';
+import Navbar from './components/Navbar/Navbar';
+import SidebarCarousel from './components/SidebarCarousel/SidebarCarousel';
+import About from './components/About/About';
+import Exhibitors from "./components/Exhibitors/Exhibitors";
+import Speakers from "./components/Speakers/Speakers";
+import Conference from "./components/Conference/Conference";
+import Committee from "./components/Committee/Committee";
+import Registration from "./components/Registration/Registration";
+import Awards from "./components/Awards/Awards";
+import Footer from "./components/Footer/Footer";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar/>
+      <SidebarCarousel/>
+      <About/>
+      <Exhibitors/>
+      <Speakers/>
+      <Conference/>
+      <Committee/>
+      <Registration/>
+      <Awards/>
+      <Footer/>
+      {/* Your other content goes here */}
     </div>
   );
 }

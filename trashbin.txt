@@ -1,0 +1,172 @@
+between
+ 
+between
+ 
+around
+ 
+<img src="" alt="" />
+ 
+ <h5></h5>
+            <h5></h5>
+            <h5></h5>
+ 
+d-flex flex-direction-column
+ 
+d-flex 
+ 
+d-flex g-3
+ 
+ <img src="" alt="" />
+ 
+flex-direction: row;
+ 
+ grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+ 
+border: rgb(107, 110, 107) 4px ;
+ 
+  <div>
+                <div></div>
+                <div></div>
+            </div>
+            <div>
+                <div></div>
+                <div></div>
+            </div>
+            <div>
+                <div></div>
+                <div></div>
+            </div>
+ 
+<div></div>
+            <div></div>
+            <div></div>
+ 
+  {/* <div className='speakerimg'>
+        <div className='one'>
+         <img height="250px" width="250px" src="https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg" alt="" />
+         <h5>Aurel Ymeti</h5>
+         <p>CEO, Nanoalmyona BV,</p>
+         <p>Netherlands</p>
+        </div>
+        <div className='one'>
+         <img  height="250px" width="250px"src="https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg" alt="" />
+         <h5> Aurel Ymeti</h5>
+         <p>CEO, Nanoalmyona BV,</p>
+         <p>Netherlands</p>
+        </div>
+        <div className='one'>
+         <img height="250px" width="250px" src="https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg" alt="" />
+         <h5>Aurel Ymeti</h5>
+         <p>CEO, Nanoalmyona BV,</p>
+         <p>Netherlands</p>
+        </div>
+        <div className='one'>
+         <img height="250px" width="250px" src="https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg" alt="" />
+         <h5>Aurel Ymeti</h5>
+         <p>Aurel Ymeti</p>
+         <p>Netherlands</p>
+        </div>
+     
+      </div> */}
+ 
+</div>
+      <div className='speakerimg'>
+        <div className='one'>
+         <img height="250px" width="250px" src="https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg" alt="" />
+         <h5>Aurel Ymeti</h5>
+         <p>CEO, Nanoalmyona BV,</p>
+         <p>Netherlands</p>
+        </div>
+        <div className='one'>
+         <img  height="250px" width="250px"src="https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg" alt="" />
+         <h5> Aurel Ymeti</h5>
+         <p>CEO, Nanoalmyona BV,</p>
+         <p>Netherlands</p>
+        </div>
+        <div className='one'>
+         <img height="250px" width="250px" src="https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg" alt="" />
+         <h5>Aurel Ymeti</h5>
+         <p>CEO, Nanoalmyona BV,</p>
+         <p>Netherlands</p>
+        </div>
+        <div className='one'>
+         <img height="250px" width="250px" src="https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg" alt="" />
+         <h5>Aurel Ymeti</h5>
+         <p>Aurel Ymeti</p>
+         <p>Netherlands</p>
+        </div>
+ 
+  </div>
+ 
+// import React from 'react'
+// import "./Speakers.css"
+
+// const Speakers = () => {
+//   return (
+ 
+//   )
+// }
+
+// export default Speakers
+ 
+<dl>
+                
+            </dl>
+ 
+d-flex flex-directions-row
+ 
+   <div>
+        <img src="" alt="" />
+                
+            </div>
+ 
+      <div>
+     
+        </div>
+ 
+   <img src="" alt="" />
+                
+            </div>
+ 
+   <img src="" alt="" />
+        <img src="" alt="" />
+        <img src="" alt="" />
+ 
+ <div>
+            <img src="" alt="" />
+        </div>
+        <div></div>
+        <div></div>
+ 
+evenl
+ 
+img {
+  height: 40%;
+}
+ 
+   <div></div>
+ 
+   width: 100vw;
+    height: 100vh;
+ 
+    height: 100vh;
+ 
+class Question extends React.Component {
+  render() {
+    return <h3> Lets go for a <FaBeer />? </h3>
+  }
+}
+ 
+https://.com/full/1445467.jpg/to/your/image.jpg
+ 
+wallpaperaccess
+ 
+Carousel
+ 
+space
+ 
+ />
+ 
+import logo from './logo.svg';
+ 
